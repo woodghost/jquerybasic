@@ -14,7 +14,7 @@ $(document).ready(function() {
   });
 
   $('#switcher-narrow, #switcher-large').click(function() {
-    $('#switcher').off('click');
+    $('#switcher').off('click');   //移除了折叠处理程序
   });
 });
 

@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('#switcher').hover(function() {
+  $('#switcher').hover(function() { //
     $(this).addClass('hover');
   }, function() {
     $(this).removeClass('hover');

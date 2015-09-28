@@ -5,6 +5,8 @@
 //
 // See README.md for more information.
 $(document).ready(function()  {
+       var $speech = $('div.speech');  //events processing code
     $('#switcher-large').click(function()  {
+        var num = parseFloat ($speech.css('fontSize'));
     });
 });

@@ -1,3 +1,4 @@
+//事件空间命名
 $(document).ready(function() {
   $('#switcher').hover(function() {
     $(this).addClass('hover');
@@ -7,7 +8,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $('#switcher').on('click.collapse', function(event) {
+  $('#switcher').on('click.collapse', function(event) { //suffix  .collapse is not available
     if (!$(event.target).is('button')) {
       $('#switcher button').toggleClass('hidden');
     }

@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(document).ready(function() { //continue to refine based on 3.3, 3.4
   $('#switcher-default')
   .addClass('selected')
   .on('click', function() {

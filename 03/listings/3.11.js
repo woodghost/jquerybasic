@@ -7,7 +7,7 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $('#switcher').click(function(event) {
+  $('#switcher').click(function(event) { //provide a parameter "event" for function
     $('#switcher button').toggleClass('hidden');
   });
 });
