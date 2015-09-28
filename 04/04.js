@@ -3,4 +3,8 @@
 // then viewing index.html in a browser, you can experiment with the example
 // page or follow along with the examples in the book.
 //
-// See README.txt for more information.
+// See README.md for more information.
+$(document).ready(function()  {
+    $('#switcher-large').click(function()  {
+    });
+});

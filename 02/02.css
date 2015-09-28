@@ -9,7 +9,7 @@ html, body {
 
 body {
   font: 62.5% Verdana, Helvetica, Arial, sans-serif;
-  color: #000;
+  color: #111;
   background: #fff;
 }
 #container {
@@ -42,7 +42,7 @@ a {
 
 /***************************************
    Chapter Styles
-************************************** */
+***************************************/
 
 h2 {
   clear: left;

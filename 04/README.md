@@ -1,5 +1,8 @@
-This directory contains files related to Chapter 4 of Learning jQuery, Fourth
-Edition. Included are the following:
+#learning jQuery
+
+
+##This directory contains files related to Chapter 4 of Learning jQuery, Fourth
+##Edition. Included are the following:
 
 index.html
   This is the main sample HTML file for the chapter. Open this file in a
@@ -30,5 +33,8 @@ listings/
 Other files in the directory are supplemental materials (images, etc.)
 required to implement the examples in the chapter.
 
+
+```
 To view the code examples in an interactive code browser, please visit:
   http://book.learningjquery.com
+```
